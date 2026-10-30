@@ -1,2 +1,2 @@
-Hi this is changed file. new change.
+Hi this is changed file. new
  new file there
